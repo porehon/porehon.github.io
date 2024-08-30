@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://porehon.github.io/sitemap.html.gz
+Sitemap: https://porehon.github.io/app/sitemap.html.gz
+Sitemap: https://porehon.github.io/assets/sitemap.html.gz
+Sitemap: https://porehon.github.io/css/sitemap.html.gz
+Sitemap: https://porehon.github.io/includes/sitemap.html.gz
+Sitemap: https://porehon.github.io/item/sitemap.html.gz
+Sitemap: https://porehon.github.io/src/sitemap.html.gz
